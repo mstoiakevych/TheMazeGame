@@ -1,0 +1,3 @@
+#define MAZEBM							10001
+#define MAZEBIN							10002
+MAZEBM					BITMAP    DISCARDABLE "Res/maze12.bmp"

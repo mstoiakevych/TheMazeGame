@@ -1,0 +1,3 @@
+#include "Res/screemerDlg.rc"
+#include "Res/lab6Res.rc"
+#include "Res/lab6Dlg.rc"

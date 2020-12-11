@@ -1,0 +1,3 @@
+#include "Res/lab6Res.rc"
+#include "Res/lab6Dlg.rc"
+#include <res\Tab1Dlg.rc>
